@@ -1,0 +1,15 @@
+.search-list-item{
+    display: block;
+    small{
+        float: right;
+        color: #777;
+        font-size: 70%;
+    }
+}
+.img-responsive{
+    max-width : 100%;
+}
+.card{
+    border : none;
+    border-left : 1px solid #ddd;
+}
